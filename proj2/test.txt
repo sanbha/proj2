@@ -1,0 +1,11 @@
+#Wed, 26 Mar 2014 13:54:41 -0700
+# The Site Name
+sitename=www.tutorialspoint.com
+buildversion=3.3.2
+key1=value1
+key2=value2
+buildnumber=10
+token="value4"
+token="defaultvaluevalue4"
+property.key=aaa123
+test2

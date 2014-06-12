@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<project name="perly" basedir="." default="run">
+    <target name="run">
+        <exec executable="perl" dir="${basedir}">
+            <arg value="disp.pl"/>
+        </exec>
+    </target>
+</project>
